@@ -102,7 +102,7 @@ blurRadius：模糊程度，用法和 GlideCache 的 pattern 一致，设置为 
 
 #### 从本地图片进行模糊化
 ``` Java
-FatBlur.toBlur(bitmap, blurRadius)
+FastBlur.toBlur(bitmap, blurRadius)
 ```
 #### 参数说明
 bitmap：本地图片转化的 bitmap
